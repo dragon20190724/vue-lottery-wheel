@@ -16,7 +16,7 @@
     "url": "https://github.com/iamobj/vue-big-wheel"
   },
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "build-lib": "vue-cli-service build --target lib --name vueBigWheel ./src/components/vue-big-wheel/index.js"
   },
